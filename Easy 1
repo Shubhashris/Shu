@@ -1,0 +1,5 @@
+x= intput("enter the string:")
+
+y= x.split()
+z=y[-1]
+print(len(z))
